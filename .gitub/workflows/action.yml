@@ -7,3 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: cody-carlson/custom-action@main
+        name: custom-action-step
