@@ -1,5 +1,5 @@
-name: custom-action
-description: hopefully runs a custom action
+name: 'custom-action'
+description: 'hopefully runs a custom action'
 on: [push]
 
 jobs:
